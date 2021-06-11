@@ -1,0 +1,24 @@
+{
+  "latestVersion": 0.4,
+  "indexName":"Apollo"
+  "songs": [
+    {
+      "type": "song",
+      "name": "Fallen Kingdom",
+      "author": "CaptainSparkles",
+      "speed": 2,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/fallen_kingdom.dfpwm?raw=true",
+      "filepc": "https://github.com/RubenHetKonijn/computronics-songs/raw/main/fallen_kingdom.mp3",
+      "time": 250
+    },
+    {
+      "type": "song",
+      "name": "Mine Diamonds",
+      "author": "MineCraft Awesome Parodys",
+      "speed": 1,
+      "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/mine_diamonds.dfpwm?raw=true",
+      "filepc":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/mine_diamonds.mp3",
+      "time": 231
+    }
+  ]
+}
