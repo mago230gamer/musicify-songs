@@ -4,12 +4,19 @@
       {
           "type":"text",
           "author":"Knijn",
-          "content":"Check out Knijn Servers today!"
+          "content":"Check out Knijn Servers today!",
+          "speed":1
+      },
+      {
+          "type":"text",
+          "author":"Knijn",
+          "content":"Don't want ads, DM RubenKnijn#0043 on Discord to buy Premium for 10kst per month",
+          "speed":1
       }
     ],
     "premium": [
         {
-            "id":0
+            "id":18213
         }
     ]
   }
