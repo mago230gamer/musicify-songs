@@ -1,0 +1,15 @@
+{
+    "latestVersion": 0.7,
+    "ads": [
+      {
+          "type":"text",
+          "author":"Knijn",
+          "content":"Check out Knijn Servers today!"
+      }
+    ],
+    "premium": [
+        {
+            "id":0
+        }
+    ]
+  }
