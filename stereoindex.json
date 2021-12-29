@@ -16,6 +16,23 @@
             ],
             "speed": 2,
             "time": 166
+          },
+          {
+            "type":"song",
+            "name":"Close Eyes",
+            "author": "DVRST",
+            "stereo": [
+              {
+                "channel":"left",
+                "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/stereo/close_eyes_left.dfpwm"
+              },
+              {
+                "channel":"right",
+                "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/stereo/close_eyes_right.dfpwm"
+              }
+            ],
+            "speed": 2,
+            "time": 132
           }
     ]
 }
