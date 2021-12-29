@@ -1,5 +1,5 @@
 {
-  "latestVersion": 0.4,
+  "latestVersion": 1.0,
   "indexName":"Apollo",
   "songs": [
     {
@@ -109,6 +109,15 @@
       "file": "https://github.com/RubenHetKonijn/computronics-songs/blob/main/Daft_Punk/daft_punk-derezzed_remix.dfpwm?raw=true",
       "filepc": "https://github.com/RubenHetKonijn/computronics-songs/raw/main/Daft_Punk/daft_punk-derezzed_remix.mp3",
       "time": 262
+    },
+    {
+      "type":"song",
+      "name":"Supersonic (My existence)",
+      "author": "Skrillex, Nosia, josh pan, Dylan Brady",
+      "speed": 2,
+      "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/supersonic.dfpwm",
+      "filepc":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/supersonic.mp3",
+      "time": 166
     }
   ]
 }
