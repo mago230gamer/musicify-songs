@@ -24,11 +24,11 @@
             "stereo": [
               {
                 "channel":"left",
-                "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/stereo/close_eyes_left.dfpwm"
+                "file":"https://github.com/knijn/musicify-songs/raw/main/stereo/close_eyes_left.dfpwm"
               },
               {
                 "channel":"right",
-                "file":"https://github.com/RubenHetKonijn/computronics-songs/raw/main/stereo/close_eyes_right.dfpwm"
+                "file":"https://github.com/knijn/musicify-songs/raw/main/stereo/close_eyes_left.dfpwm"
               }
             ],
             "speed": 2,
