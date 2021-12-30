@@ -33,6 +33,22 @@
             ],
             "speed": 2,
             "time": 132
+          },
+          {
+            "type":"song",
+            "name":"BassMarck",
+            "author":"Alan Aztec",
+            "stereo": [
+              {
+                "channel":"left",
+                "file":"https://github.com/knijn/musicify-songs/raw/main/stereo/bassmarck-alan.mp3-left.dfpwm"
+            },
+          {
+            "channel":"right",
+            "file":"https://github.com/knijn/musicify-songs/raw/main/stereo/bassmarck-alan.mp3-right.dfpwm"
+          }],
+          "speed":2,
+          "time":142
           }
     ]
 }
