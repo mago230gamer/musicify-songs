@@ -12,11 +12,11 @@
     },
       {
       "type":"song",
-      "name":"Playlist 2010",
-      "author": "Play",
+      "name":"Congratulations",
+      "author": "Vacations",
       "speed": 1,
-      "file":"https://github.com/mago230gamer/musicify-songs/raw/main/skrillex/old.dfpwm",
-      "time": 3925
+      "file":"https://github.com/mago230gamer/musicify-songs/raw/main/skrillex/Congratulations.dfpwm",
+      "time": 100
     },
     {
       "type":"song",
