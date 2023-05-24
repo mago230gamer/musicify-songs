@@ -12,11 +12,11 @@
     },
     {
       "type":"song",
-      "name":"Supersonic VIP",
-      "author": "Skrillex, Nosia",
+      "name":"Meu Pau fica Duro",
+      "author": "Rogério Skylab",
       "speed": 1,
-      "file":"https://github.com/knijn/musicify-songs/raw/main/skrillex/skrillex-supersonic.dfpwm",
-      "time": 206
+      "file":"https://github.com/knijn/musicify-songs/raw/main/skrillex/duro.dfpwm",
+      "time": 210
     },
     {
       "type":"song",
