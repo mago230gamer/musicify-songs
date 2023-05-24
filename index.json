@@ -2,6 +2,14 @@
   "latestVersion": "2.5.0",
   "indexName":"Apollo",
   "songs": [
+     {
+      "type":"song",
+      "name":"Meu pau fica duro",
+      "author": "Rogério Skylab",
+      "speed": 1,
+      "file":"https://github.com/mago230gamer/musicify-songs/raw/main/skrillex/duro.dfpwm",
+      "time": 270
+    },
     {
       "type":"song",
       "name":"Supersonic (My existence)",
