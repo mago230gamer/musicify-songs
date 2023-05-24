@@ -4,11 +4,11 @@
   "songs": [
     {
       "type":"song",
-      "name":"Supersonico",
-      "author": "Skrillex, GAY, josh pan, Dylan Brady",
+      "name":"Congratulations",
+      "author": "Post Malone",
       "speed": 1,
       "file":"https://github.com/knijn/musicify-songs/raw/main/skrillex/Congratulations.dfpwm",
-      "time": 166
+      "time": 226
     },
     {
       "type":"song",
