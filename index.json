@@ -20,11 +20,11 @@
     },
     {
       "type":"song",
-      "name":"A Different Way",
-      "author":"DJ Snake, Lauv",
+      "name":"Location",
+      "author":"Khalid",
       "speed":1,
-      "file":"https://github.com/mago230gamer/musicify-songs/raw/main/outros/Diferentway.dfpwm",
-      "time": 237
+      "file":"https://github.com/mago230gamer/musicify-songs/raw/main/khalid/location.dfpwm",
+      "time": 221
     },
     {
       "type":"song",
