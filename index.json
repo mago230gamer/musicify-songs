@@ -12,18 +12,26 @@
     },
     {
       "type":"song",
+      "name":"A Different Way",
+      "author":"DJ Snake, Lauv",
+      "speed":1,
+      "file":"https://github.com/mago230gamer/musicify-songs/raw/main/outros/Diferentway.dfpwm",
+      "time": 237
+    },
+    {
+      "type":"song",
+      "name":"A Different Way",
+      "author":"DJ Snake, Lauv",
+      "speed":1,
+      "file":"https://github.com/mago230gamer/musicify-songs/raw/main/outros/Diferentway.dfpwm",
+      "time": 237
+    },
+    {
+      "type":"song",
       "name":"Meu Pau fica Duro",
       "author": "Rogério Skylab",
       "speed": 1,
       "file":"https://github.com/mago230gamer/musicify-songs/raw/main/skrillex/duro.dfpwm",
-      "time": 210
-    },
-    {
-      "type":"song",
-      "name":"Year 2010s",
-      "author":"Playlist",
-      "speed":1,
-      "file":"https://github.com/mago230gamer/musicify-songs/raw/main/skrillex/old.dfpwm",
       "time": 210
     },
     {
