@@ -1,2 +1,2 @@
 # musicify-songs
-Songs for Musicify with the v2 index
+Musicas alternativas aleatórias para uso exclusivo do Servidor Privado Sniper Ghost
